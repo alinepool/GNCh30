@@ -1,9 +1,11 @@
-doby {
-    background-image: url("../");
-    front-family: sans serif;
+body {
+    background-image: url("../img/fondo-tecnologia-estructura-metalica-abstracta-gris.jpg");
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-    color: aqua(78,187,185);
-    text - aling: center;
+h1{
+    text-align: center;
+}
+h2 {
+    text-align: center;
 }

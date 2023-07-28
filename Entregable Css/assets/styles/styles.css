@@ -1,0 +1,26 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+p{
+    color: #555;
+}
+#primero p{
+    color:#369;
+}
+:any-link{
+    color: #c30;
+    text-decoration:underline;
+}
+#primero em{
+    color: #00b;
+    background-color: #FFFFCC;
+}
+em.especial{
+    color: #ff0;
+    background: #000;
+}
+span{
+    font-weight: bold;
+}

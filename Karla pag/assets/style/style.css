@@ -1,0 +1,9 @@
+doby {
+    background-image: url("../");
+    front-family: sans serif;
+}
+
+h1 {
+    color: aqua(78,187,185);
+    text - aling: center;
+}

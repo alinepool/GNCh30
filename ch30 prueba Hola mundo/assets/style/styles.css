@@ -1,0 +1,18 @@
+/*Ëste es un selector de etiqueta*/
+body {
+    background-image: url("../img/bob\ \(1\).gif");
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(78,187,185);
+    text-align:center;
+}
+h2{
+    color: rgb(69, 48, 88);
+    text-align: left;
+}
+h3{
+    color: rgb(221, 238, 238);
+    text-align: right;
+}
